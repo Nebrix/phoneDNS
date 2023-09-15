@@ -1,3 +1,0 @@
-phonenumbers 
-pyinstaller
-colorama
