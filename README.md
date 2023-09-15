@@ -15,5 +15,4 @@ PhoneDNS is an open-source intelligence (OSINT) tool designed to gather essentia
   ./build/build.sh
   ```
 
-
 PhoneDNS is your go-to tool for extracting valuable information from phone numbers effortlessly.
