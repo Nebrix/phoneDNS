@@ -2,13 +2,14 @@
 PhoneDNS is an open-source intelligence (OSINT) tool designed to gather essential information from a phone number.
 
 ## Usage Instructions
-- Windows
+
+### Windows
   To run PhoneDNS on Windows, simply execute the following command in your terminal: 
   ```
   .\build\build.bat
   ```
 
-- Linux
+### Linux
   For Linux users, run the following command in your terminal:
   ```
   ./build/build.sh
