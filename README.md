@@ -6,7 +6,7 @@ PhoneDNS is an open-source intelligence (OSINT) tool designed to gather essentia
 ### Local install
 If you prefer to build the Docker image locally, execute the following commands:
 
-`docker built -t phonedns .`
+`docker build -t phonedns .`
 
 `docker run -it phonedns`
 
